@@ -1,0 +1,18 @@
+{
+  "name": "ITTF Standards v.1 - Table view",
+  "style": "Table",
+  "Fields": [
+    {
+      "name": "ActivityBasedTimeout",
+      "StoreAs": "bool",
+      "UseExistingInfo": true,
+      "FrontendFields": [
+        {
+          "formatter": "bool",
+          "name": "ActivityBasedTimeout",
+          "value": "ActivityBasedTimeout"
+        }
+      ]
+    }
+  ]
+}
